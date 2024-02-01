@@ -1,0 +1,14 @@
+.litem {
+    display: flex;
+    padding: 4px;
+    align-items: center;
+}
+
+.image {
+    width: 64px;
+    border-radius: 15px;
+}
+
+h1 {
+    padding: 4px;
+}
